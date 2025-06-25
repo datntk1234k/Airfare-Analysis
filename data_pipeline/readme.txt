@@ -16,3 +16,9 @@ Những ngày có nhiều chuyến bay nhất
 Tháng có giá vé trung bình cao nhất và thấp nhất theo từng hãng 
 Tác động của Booking Class và Fare Code đến giá
 
+---- Nguyễn Văn Minh Đạt
+Tổng số chuyến bay theo từng tuyến đường, tuyến có giá cao nhất, rẻ nhất 
+Top 5 chuyến có giá trung bình cao nhất và rẻ nhất
+Tạo cột đánh dấu các chuyến bay bay trong ngày lễ. Dùng để kiểm tra giá
+Tạo cột Description mô tả dễ hiểu route 
+
