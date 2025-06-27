@@ -22,3 +22,10 @@ Top 5 chuyến có giá trung bình cao nhất và rẻ nhất
 Tạo cột đánh dấu các chuyến bay bay trong ngày lễ. Dùng để kiểm tra giá
 Tạo cột Description mô tả dễ hiểu route 
 
+---- Bùi Tiến Đạt
+Tính giá gốc (net_price) và tỷ lệ thuế trên tổng giá
+Phân loại vé thành Economy / Premium / Business
+Tuyến có mức thuế trung bình cao nhất
+Tỷ lệ từng fare_type trong mỗi hãng
+Giá cao nhất theo loại vé của từng hãng
+Gán nhãn mức biến động (cao / trung bình / thấp)
