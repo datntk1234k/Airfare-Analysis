@@ -19,7 +19,7 @@ Tác động của Booking Class và Fare Code đến giá
 ---- Nguyễn Văn Minh Đạt
 Tổng số chuyến bay theo từng tuyến đường, tuyến có giá cao nhất, rẻ nhất 
 Top 5 chuyến có giá trung bình cao nhất và rẻ nhất
-Tạo cột đánh dấu các chuyến bay bay trong ngày lễ. Dùng để kiểm tra giá
+Tạo cột đánh dấu các chuyến bay bay trong ngày lễ. Dùng để kiểm tra giá 
 Tạo cột Description mô tả dễ hiểu route 
 
 ---- Bùi Tiến Đạt
@@ -28,4 +28,4 @@ Phân loại vé thành Economy / Premium / Business
 Tuyến có mức thuế trung bình cao nhất
 Tỷ lệ từng fare_type trong mỗi hãng
 Giá cao nhất theo loại vé của từng hãng
-Gán nhãn mức biến động (cao / trung bình / thấp)
+Gán nhãn mức biến động (cao / trung bình / thấp) 
