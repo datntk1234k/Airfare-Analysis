@@ -1,3 +1,7 @@
-data_pipeline/raw_data/
-data_pipeline/raw_data/
+# Bỏ toàn bộ file CSV trong các thư mục raw_data, processed_data và data_sql
+data_pipeline/raw_data/*.csv
+data_pipeline/processed_data/*.csv
+data_warehouse/data_sql/*.csv
+
+# Loại file hệ thống của macOS
 .DS_Store
