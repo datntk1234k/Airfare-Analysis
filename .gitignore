@@ -2,6 +2,8 @@
 data_pipeline/raw_data/*.csv
 data_pipeline/processed_data/*.csv
 data_warehouse/data_sql/*.csv
+data_warehouse/data_sql/DU_AN_BACKUP.bak
+
 
 # Loại file hệ thống của macOS
 .DS_Store
